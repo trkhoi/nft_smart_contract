@@ -1,7 +1,9 @@
 # nft_smart_contract
 Repo for self-study smart contract
 
-## NFT market contract 
-https://ropsten.etherscan.io/address/0xB9dBA7EC42D72c1dDa157B7E05ad476D8e815947
+## NFT market contract ERC20
+https://ropsten.etherscan.io/address/0xfD41d3E0a8643d0256Be24367FE7b1ed1cC0a3DA
 ## NFT contract
-https://ropsten.etherscan.io/address/0xfd4b86cb140dac83be0d4f8374a31c25f7c18af5
+https://ropsten.etherscan.io/address/0x9fF135DC862E8B7CBb03d57D2b2E43605D86A03D
+## Khoi Coin
+https://ropsten.etherscan.io/address/0xF4208ca56A6A14db724019C9C2cD712F448Db254
